@@ -6,6 +6,7 @@ const importers = [
   require('./src/importers/insomnia-3'),
   require('./src/importers/postman'),
   require('./src/importers/postman-env'),
+  require('./src/importers/swagger-2'),
   require('./src/importers/har'),
   require('./src/importers/curl')
 ];
